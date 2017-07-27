@@ -1,8 +1,8 @@
 {
-  "name": "decimal",
+  "name": "hs-decimal",
   "description": "Simple decimal arithmetic for the browser and node.js!",
-  "author": "Samori Gorse <samorigorse@gmail.com>",
-  "version": "0.0.2",
+  "author": "Matt Fisher",
+  "version": "1.0.0",
   "keywords": [
     "arithmetic",
     "decimal",
@@ -12,7 +12,7 @@
   "main": "./lib/decimal",
   "repository": {
     "type": "git",
-    "url": "git://github.com/shinuza/decimal-js.git"
+    "url": "git://github.com/hotschedules/decimal-js.git"
   },
   "engines": {
     "node": ">=0.4.x"
