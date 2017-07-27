@@ -34,7 +34,7 @@ In node
 
 then in your program
 
-    var Decimal = require('decimal');
+    var Decimal = require('hs-decimal');
 
 
 Examples
