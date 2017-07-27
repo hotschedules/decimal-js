@@ -30,7 +30,7 @@ In the browser
 In node
 -------
 
-    npm install decimal
+    npm install hs-decimal
 
 then in your program
 
